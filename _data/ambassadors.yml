@@ -306,3 +306,20 @@
     - Firmware design
     - Hardware design
     - Testing
+- name: Kariuki 
+   firstname: Mutembei 
+   country: Kenya
+   city: Nairobi  
+   img: Mutembei-Kariuki.jpg
+   links:  
+    - type: linkedin
+    - url: https://www.linkedin.com/in/mutembei-k-7024238
+   languages:     
+    - English 
+    - Japanese  
+   skills:     
+    - Business development  
+    - Design Thinking  
+    - Project Management 
+    - Product development
+    
